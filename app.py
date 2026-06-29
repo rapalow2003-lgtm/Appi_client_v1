@@ -8,7 +8,7 @@ st.set_page_config(page_title="API-SQLITE", page_icon="guardsman", layout="wide"
 
 crear_tabla()
 
-st.title("API-SQLITE-STREAMLITE")
+st.title("API-SQLITE-STREAMLITE - Walter Rápalo")
 st.write("Esta aplicacion permite obtener datos en una API y almacenarlos en una base de datos")
 
 menu=st.sidebar.selectbox (
